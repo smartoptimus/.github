@@ -9,7 +9,7 @@ This article explains what an ICCID number is, how to locate and troubleshoot it
 ## What Do the Numbers in an ICCID Represent?
 Although an ICCID may appear as just a long string of numbers, each section contains significant information about the SIM card. Information must be accurate according to ITU-T E.118 standart. 
 
-Let’s examine the sample ICCID: 89 352 02 100000077159 6.
+Let’s examine the sample ICCID: 8935202100000077159-6.
 
 <b>89</b>: The first two digits are always the same, indicating that this is a telecommunications product typically associated with mobile networks, regardless of whether the SIM card is currently active.
 
